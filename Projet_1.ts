@@ -38,4 +38,4 @@ const motDePasse = genererMotDePasseAleatoire(longueur, inclureMajuscules, inclu
 
 
 console.log("Mot de passe généré :", motDePasse);
-alert("Votre mot de passe généré est : " + motDePasse);
+// alert("Votre mot de passe généré est : " + motDePasse);
